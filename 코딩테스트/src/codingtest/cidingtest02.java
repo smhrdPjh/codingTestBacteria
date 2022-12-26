@@ -2,13 +2,12 @@ package codingtest;
 
 public class cidingtest02 {
 
-	public static void main(String[] args) {
+	
 
+	public int solution(String message) {
 
-		String message = "happy birthday!";
 		int messageSize = message.length();
-		System.out.println(messageSize);
-
+		return messageSize * 2;
 	}
 
 }
