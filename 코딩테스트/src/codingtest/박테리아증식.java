@@ -13,7 +13,7 @@ public class 박테리아증식 {
 		
 
 	}
-	
+	//
 	public static int bacteria(int num, int time) {	
 		
 			

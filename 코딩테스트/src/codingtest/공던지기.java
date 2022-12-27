@@ -10,7 +10,7 @@ public class 공던지기 {
 		int check = get(numbers, 6);
 		System.out.println(check);
 	}
-
+//
 	public static int get(int[] numbers, int k) {
 
 		int result = 0;

@@ -13,7 +13,7 @@ public class 개미군단 {
 	}
 	
 	public static int ant(int hp) {
-		//5,3,1
+		
 		int boss = 5;
 		int middle = 3;
 		int small =1;
