@@ -1,6 +1,6 @@
 package codingtest;
 
-public class cidingtest02 {
+public class 편지 {
 
 	
 

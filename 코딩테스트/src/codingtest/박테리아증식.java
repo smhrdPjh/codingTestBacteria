@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.ArrayList;
 
-public class codingtest01 {
+public class 박테리아증식 {
 
 	public static void main(String[] args) {
 	

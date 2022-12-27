@@ -1,6 +1,6 @@
 package codingtest;
 
-public class codingtest03 {
+public class 개미군단 {
 
 	public static void main(String[] args) {
 		
