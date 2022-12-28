@@ -10,8 +10,10 @@ public class 피나보치 {
 
 	public static int pinabocci(int n) {
 
+		
 		int[] arr = new int[n + 1];
 
+		//n은 2이상 
 		arr[0] = 0;
 		arr[1] = 1;
 
