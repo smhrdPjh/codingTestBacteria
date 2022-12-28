@@ -10,7 +10,6 @@ public class 피나보치 {
 
 	public static int pinabocci(int n) {
 
-		int result = 0;
 		int[] arr = new int[n + 1];
 
 		arr[0] = 0;
@@ -18,13 +17,11 @@ public class 피나보치 {
 
 		for (int i = 2; i <= n; i++) {
 
-			arr[i] = (arr[i - 1]%1234567) + (arr[i - 2]%1234567);
+			arr[i] = (arr[i - 1] % 1234567) + (arr[i - 2] % 1234567);
 
-			
 		}
-		
 
-		return arr[n]%1234567;
+		return arr[n] % 1234567;
 	}
 
 }
